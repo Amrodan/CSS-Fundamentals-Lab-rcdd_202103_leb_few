@@ -19,12 +19,13 @@ img {
 	 text-align: center;
 }
 
-
+			
 #amro {
 text-align: center;
 }
- nav a{text-align: : center;
-padding: 0 10px 0 10px;
+nav  a {
+ 	text-align: center;
+	padding: 0 10px 0 10px;
 	background-color: grey;
 }
 figcaption {
